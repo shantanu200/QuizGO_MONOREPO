@@ -1,0 +1,610 @@
+[
+  {
+    "text": "What is the largest planet in our solar system?",
+    "description": "",
+    "topics": [],
+    "mediaFiles": [],
+    "options": [
+      { "id": 1, "text": "Jupiter", "mediaFile": "" },
+      { "id": 2, "text": "Saturn", "mediaFile": "" },
+      { "id": 3, "text": "Neptune", "mediaFile": "" },
+      { "id": 4, "text": "Earth", "mediaFile": "" }
+    ],
+    "answer": 1,
+    "solution": { "text": "The largest planet in our solar system is Jupiter." }
+  },
+  {
+    "text": "Who painted the Starry Night?",
+    "description": "",
+    "topics": [],
+    "mediaFiles": [],
+    "options": [
+      { "id": 1, "text": "Vincent van Gogh", "mediaFile": "" },
+      { "id": 2, "text": "Pablo Picasso", "mediaFile": "" },
+      { "id": 3, "text": "Claude Monet", "mediaFile": "" },
+      { "id": 4, "text": "Leonardo da Vinci", "mediaFile": "" }
+    ],
+    "answer": 1,
+    "solution": { "text": "The Starry Night was painted by Vincent van Gogh." }
+  },
+  {
+    "text": "What is the currency of Russia?",
+    "description": "",
+    "topics": [],
+    "mediaFiles": [],
+    "options": [
+      { "id": 1, "text": "Euro", "mediaFile": "" },
+      { "id": 2, "text": "Ruble", "mediaFile": "" },
+      { "id": 3, "text": "Dollar", "mediaFile": "" },
+      { "id": 4, "text": "Pound", "mediaFile": "" }
+    ],
+    "answer": 2,
+    "solution": { "text": "The currency of Russia is the Ruble." }
+  },
+  {
+    "text": "Who invented the telephone?",
+    "description": "",
+    "topics": [],
+    "mediaFiles": [],
+    "options": [
+      { "id": 1, "text": "Alexander Graham Bell", "mediaFile": "" },
+      { "id": 2, "text": "Thomas Edison", "mediaFile": "" },
+      { "id": 3, "text": "Nikola Tesla", "mediaFile": "" },
+      { "id": 4, "text": "Guglielmo Marconi", "mediaFile": "" }
+    ],
+    "answer": 1,
+    "solution": {
+      "text": "The telephone was invented by Alexander Graham Bell."
+    }
+  },
+  {
+    "text": "What is the primary language spoken in Brazil?",
+    "description": "",
+    "topics": [],
+    "mediaFiles": [],
+    "options": [
+      { "id": 1, "text": "Spanish", "mediaFile": "" },
+      { "id": 2, "text": "Portuguese", "mediaFile": "" },
+      { "id": 3, "text": "English", "mediaFile": "" },
+      { "id": 4, "text": "French", "mediaFile": "" }
+    ],
+    "answer": 2,
+    "solution": {
+      "text": "The primary language spoken in Brazil is Portuguese."
+    }
+  },
+  {
+    "text": "Who was the first President of the United States?",
+    "description": "",
+    "topics": [],
+    "mediaFiles": [],
+    "options": [
+      { "id": 1, "text": "George Washington", "mediaFile": "" },
+      { "id": 2, "text": "Thomas Jefferson", "mediaFile": "" },
+      { "id": 3, "text": "John Adams", "mediaFile": "" },
+      { "id": 4, "text": "Abraham Lincoln", "mediaFile": "" }
+    ],
+    "answer": 1,
+    "solution": {
+      "text": "George Washington was the first President of the United States."
+    }
+  },
+  {
+    "text": "What is the highest mountain in Africa?",
+    "description": "",
+    "topics": [],
+    "mediaFiles": [],
+    "options": [
+      { "id": 1, "text": "Mount Kilimanjaro", "mediaFile": "" },
+      { "id": 2, "text": "Mount Kenya", "mediaFile": "" },
+      { "id": 3, "text": "Mount Elgon", "mediaFile": "" },
+      { "id": 4, "text": "Mount Stanley", "mediaFile": "" }
+    ],
+    "answer": 1,
+    "solution": {
+      "text": "The highest mountain in Africa is Mount Kilimanjaro."
+    }
+  },
+  {
+    "text": "Who painted the Sistine Chapel ceiling?",
+    "description": "",
+    "topics": [],
+    "mediaFiles": [],
+    "options": [
+      { "id": 1, "text": "Michelangelo", "mediaFile": "" },
+      { "id": 2, "text": "Leonardo da Vinci", "mediaFile": "" },
+      { "id": 3, "text": "Raphael", "mediaFile": "" },
+      { "id": 4, "text": "Donatello", "mediaFile": "" }
+    ],
+    "answer": 1,
+    "solution": {
+      "text": "The Sistine Chapel ceiling was painted by Michelangelo."
+    }
+  },
+  {
+    "text": "What is the currency of Japan?",
+    "description": "",
+    "topics": [],
+    "mediaFiles": [],
+    "options": [
+      { "id": 1, "text": "Yen", "mediaFile": "" },
+      { "id": 2, "text": "Dollar", "mediaFile": "" },
+      { "id": 3, "text": "Euro", "mediaFile": "" },
+      { "id": 4, "text": "Pound", "mediaFile": "" }
+    ],
+    "answer": 1,
+    "solution": { "text": "The currency of Japan is the Yen." }
+  },
+  {
+    "text": "Which country is known for the Great Wall?",
+    "description": "",
+    "topics": [],
+    "mediaFiles": [],
+    "options": [
+      { "id": 1, "text": "China", "mediaFile": "" },
+      { "id": 2, "text": "India", "mediaFile": "" },
+      { "id": 3, "text": "Japan", "mediaFile": "" },
+      { "id": 4, "text": "Russia", "mediaFile": "" }
+    ],
+    "answer": 1,
+    "solution": { "text": "The Great Wall is located in China." }
+  },
+  {
+    "text": "Who was the first man to step on the moon?",
+    "description": "",
+    "topics": [],
+    "mediaFiles": [],
+    "options": [
+      { "id": 1, "text": "Neil Armstrong", "mediaFile": "" },
+      { "id": 2, "text": "Buzz Aldrin", "mediaFile": "" },
+      { "id": 3, "text": "Michael Collins", "mediaFile": "" },
+      { "id": 4, "text": "Yuri Gagarin", "mediaFile": "" }
+    ],
+    "answer": 1,
+    "solution": {
+      "text": "The first man to step on the moon was Neil Armstrong."
+    }
+  },
+  {
+    "text": "Which bird is known for its ability to mimic human speech?",
+    "description": "",
+    "topics": [],
+    "mediaFiles": [],
+    "options": [
+      { "id": 1, "text": "Parrot", "mediaFile": "" },
+      { "id": 2, "text": "Crow", "mediaFile": "" },
+      { "id": 3, "text": "Pigeon", "mediaFile": "" },
+      { "id": 4, "text": "Sparrow", "mediaFile": "" }
+    ],
+    "answer": 1,
+    "solution": {
+      "text": "The parrot is known for its ability to mimic human speech."
+    }
+  },
+  {
+    "text": "What is the largest ocean on Earth?",
+    "description": "",
+    "topics": [],
+    "mediaFiles": [],
+    "options": [
+      { "id": 1, "text": "Atlantic Ocean", "mediaFile": "" },
+      { "id": 2, "text": "Indian Ocean", "mediaFile": "" },
+      { "id": 3, "text": "Arctic Ocean", "mediaFile": "" },
+      { "id": 4, "text": "Pacific Ocean", "mediaFile": "" }
+    ],
+    "answer": 4,
+    "solution": { "text": "The largest ocean on Earth is the Pacific Ocean." }
+  },
+  {
+    "text": "What is the tallest building in the world?",
+    "description": "",
+    "topics": [],
+    "mediaFiles": [],
+    "options": [
+      { "id": 1, "text": "Burj Khalifa", "mediaFile": "" },
+      { "id": 2, "text": "Shanghai Tower", "mediaFile": "" },
+      { "id": 3, "text": "Abraj Al-Bait Clock Tower", "mediaFile": "" },
+      { "id": 4, "text": "One World Trade Center", "mediaFile": "" }
+    ],
+    "answer": 1,
+    "solution": {
+      "text": "The tallest building in the world is the Burj Khalifa."
+    }
+  },
+  {
+    "text": "Which country is known as the Land of the Rising Sun?",
+    "description": "",
+    "topics": [],
+    "mediaFiles": [],
+    "options": [
+      { "id": 1, "text": "Japan", "mediaFile": "" },
+      { "id": 2, "text": "China", "mediaFile": "" },
+      { "id": 3, "text": "India", "mediaFile": "" },
+      { "id": 4, "text": "Vietnam", "mediaFile": "" }
+    ],
+    "answer": 1,
+    "solution": { "text": "Japan is known as the Land of the Rising Sun." }
+  },
+  {
+    "text": "Who painted the Mona Lisa?",
+    "description": "",
+    "topics": [],
+    "mediaFiles": [],
+    "options": [
+      { "id": 1, "text": "Leonardo da Vinci", "mediaFile": "" },
+      { "id": 2, "text": "Vincent van Gogh", "mediaFile": "" },
+      { "id": 3, "text": "Pablo Picasso", "mediaFile": "" },
+      { "id": 4, "text": "Michelangelo", "mediaFile": "" }
+    ],
+    "answer": 1,
+    "solution": { "text": "The Mona Lisa was painted by Leonardo da Vinci." }
+  },
+  {
+    "text": "Which country is known for its pyramids?",
+    "description": "",
+    "topics": [],
+    "mediaFiles": [],
+    "options": [
+      { "id": 1, "text": "Greece", "mediaFile": "" },
+      { "id": 2, "text": "Mexico", "mediaFile": "" },
+      { "id": 3, "text": "Egypt", "mediaFile": "" },
+      { "id": 4, "text": "Italy", "mediaFile": "" }
+    ],
+    "answer": 3,
+    "solution": { "text": "Egypt is known for its pyramids." }
+  },
+  {
+    "text": "Who wrote the famous play 'Hamlet'?",
+    "description": "",
+    "topics": [],
+    "mediaFiles": [],
+    "options": [
+      { "id": 1, "text": "William Shakespeare", "mediaFile": "" },
+      { "id": 2, "text": "Charles Dickens", "mediaFile": "" },
+      { "id": 3, "text": "Jane Austen", "mediaFile": "" },
+      { "id": 4, "text": "Mark Twain", "mediaFile": "" }
+    ],
+    "answer": 1,
+    "solution": { "text": "'Hamlet' was written by William Shakespeare." }
+  },
+  {
+    "text": "What is the capital of Australia?",
+    "description": "",
+    "topics": [],
+    "mediaFiles": [],
+    "options": [
+      { "id": 1, "text": "Sydney", "mediaFile": "" },
+      { "id": 2, "text": "Melbourne", "mediaFile": "" },
+      { "id": 3, "text": "Canberra", "mediaFile": "" },
+      { "id": 4, "text": "Brisbane", "mediaFile": "" }
+    ],
+    "answer": 3,
+    "solution": { "text": "The capital of Australia is Canberra." }
+  },
+  {
+    "text": "What is the smallest continent?",
+    "description": "",
+    "topics": [],
+    "mediaFiles": [],
+    "options": [
+      { "id": 1, "text": "Asia", "mediaFile": "" },
+      { "id": 2, "text": "Europe", "mediaFile": "" },
+      { "id": 3, "text": "Africa", "mediaFile": "" },
+      { "id": 4, "text": "Australia", "mediaFile": "" }
+    ],
+    "answer": 4,
+    "solution": { "text": "Australia is the smallest continent." }
+  },
+  {
+    "text": "What is the chemical symbol for gold?",
+    "description": "",
+    "topics": [],
+    "mediaFiles": [],
+    "options": [
+      { "id": 1, "text": "Au", "mediaFile": "" },
+      { "id": 2, "text": "Ag", "mediaFile": "" },
+      { "id": 3, "text": "Cu", "mediaFile": "" },
+      { "id": 4, "text": "Fe", "mediaFile": "" }
+    ],
+    "answer": 1,
+    "solution": { "text": "The chemical symbol for gold is Au." }
+  },
+  {
+    "text": "In which year did World War II end?",
+    "description": "",
+    "topics": [],
+    "mediaFiles": [],
+    "options": [
+      { "id": 1, "text": "1945", "mediaFile": "" },
+      { "id": 2, "text": "1918", "mediaFile": "" },
+      { "id": 3, "text": "1939", "mediaFile": "" },
+      { "id": 4, "text": "1941", "mediaFile": "" }
+    ],
+    "answer": 1,
+    "solution": { "text": "World War II ended in 1945." }
+  },
+  {
+    "text": "Who is known as the father of modern physics?",
+    "description": "",
+    "topics": [],
+    "mediaFiles": [],
+    "options": [
+      { "id": 1, "text": "Albert Einstein", "mediaFile": "" },
+      { "id": 2, "text": "Isaac Newton", "mediaFile": "" },
+      { "id": 3, "text": "Galileo Galilei", "mediaFile": "" },
+      { "id": 4, "text": "Niels Bohr", "mediaFile": "" }
+    ],
+    "answer": 1,
+    "solution": {
+      "text": "Albert Einstein is known as the father of modern physics."
+    }
+  },
+  {
+    "text": "What is the largest desert in the world?",
+    "description": "",
+    "topics": [],
+    "mediaFiles": [],
+    "options": [
+      { "id": 1, "text": "Sahara Desert", "mediaFile": "" },
+      { "id": 2, "text": "Arabian Desert", "mediaFile": "" },
+      { "id": 3, "text": "Gobi Desert", "mediaFile": "" },
+      { "id": 4, "text": "Antarctic Desert", "mediaFile": "" }
+    ],
+    "answer": 4,
+    "solution": {
+      "text": "The largest desert in the world is the Antarctic Desert."
+    }
+  },
+  {
+    "text": "What is the primary language spoken in Brazil?",
+    "description": "",
+    "topics": [],
+    "mediaFiles": [],
+    "options": [
+      { "id": 1, "text": "Spanish", "mediaFile": "" },
+      { "id": 2, "text": "Portuguese", "mediaFile": "" },
+      { "id": 3, "text": "English", "mediaFile": "" },
+      { "id": 4, "text": "French", "mediaFile": "" }
+    ],
+    "answer": 2,
+    "solution": {
+      "text": "The primary language spoken in Brazil is Portuguese."
+    }
+  },
+  {
+    "text": "Who wrote the novel 'To Kill a Mockingbird'?",
+    "description": "",
+    "topics": [],
+    "mediaFiles": [],
+    "options": [
+      { "id": 1, "text": "Harper Lee", "mediaFile": "" },
+      { "id": 2, "text": "Mark Twain", "mediaFile": "" },
+      { "id": 3, "text": "John Steinbeck", "mediaFile": "" },
+      { "id": 4, "text": "F. Scott Fitzgerald", "mediaFile": "" }
+    ],
+    "answer": 1,
+    "solution": { "text": "'To Kill a Mockingbird' was written by Harper Lee." }
+  },
+  {
+    "text": "What is the currency of Russia?",
+    "description": "",
+    "topics": [],
+    "mediaFiles": [],
+    "options": [
+      { "id": 1, "text": "Euro", "mediaFile": "" },
+      { "id": 2, "text": "Ruble", "mediaFile": "" },
+      { "id": 3, "text": "Dollar", "mediaFile": "" },
+      { "id": 4, "text": "Pound", "mediaFile": "" }
+    ],
+    "answer": 2,
+    "solution": { "text": "The currency of Russia is the Ruble." }
+  },
+  {
+    "text": "Which country is known as the Land of the Rising Sun?",
+    "description": "",
+    "topics": [],
+    "mediaFiles": [],
+    "options": [
+      { "id": 1, "text": "Japan", "mediaFile": "" },
+      { "id": 2, "text": "China", "mediaFile": "" },
+      { "id": 3, "text": "Korea", "mediaFile": "" },
+      { "id": 4, "text": "Vietnam", "mediaFile": "" }
+    ],
+    "answer": 1,
+    "solution": { "text": "Japan is known as the Land of the Rising Sun." }
+  },
+  {
+    "text": "Who invented the telephone?",
+    "description": "",
+    "topics": [],
+    "mediaFiles": [],
+    "options": [
+      { "id": 1, "text": "Alexander Graham Bell", "mediaFile": "" },
+      { "id": 2, "text": "Thomas Edison", "mediaFile": "" },
+      { "id": 3, "text": "Nikola Tesla", "mediaFile": "" },
+      { "id": 4, "text": "Guglielmo Marconi", "mediaFile": "" }
+    ],
+    "answer": 1,
+    "solution": {
+      "text": "The telephone was invented by Alexander Graham Bell."
+    }
+  },
+  {
+    "text": "What is the largest planet in our solar system?",
+    "description": "",
+    "topics": [],
+    "mediaFiles": [],
+    "options": [
+      { "id": 1, "text": "Jupiter", "mediaFile": "" },
+      { "id": 2, "text": "Saturn", "mediaFile": "" },
+      { "id": 3, "text": "Neptune", "mediaFile": "" },
+      { "id": 4, "text": "Earth", "mediaFile": "" }
+    ],
+    "answer": 1,
+    "solution": { "text": "The largest planet in our solar system is Jupiter." }
+  },
+  {
+    "text": "What is the largest mammal in the world?",
+    "description": "",
+    "topics": [],
+    "mediaFiles": [],
+    "options": [
+      { "id": 1, "text": "Elephant", "mediaFile": "" },
+      { "id": 2, "text": "Blue whale", "mediaFile": "" },
+      { "id": 3, "text": "Giraffe", "mediaFile": "" },
+      { "id": 4, "text": "Hippopotamus", "mediaFile": "" }
+    ],
+    "answer": 2,
+    "solution": { "text": "The largest mammal in the world is the blue whale." }
+  },
+  {
+    "text": "Who painted the Sistine Chapel ceiling?",
+    "description": "",
+    "topics": [],
+    "mediaFiles": [],
+    "options": [
+      { "id": 1, "text": "Michelangelo", "mediaFile": "" },
+      { "id": 2, "text": "Leonardo da Vinci", "mediaFile": "" },
+      { "id": 3, "text": "Raphael", "mediaFile": "" },
+      { "id": 4, "text": "Donatello", "mediaFile": "" }
+    ],
+    "answer": 1,
+    "solution": {
+      "text": "The Sistine Chapel ceiling was painted by Michelangelo."
+    }
+  },
+  {
+    "text": "Who wrote the play 'Romeo and Juliet'?",
+    "description": "",
+    "topics": [],
+    "mediaFiles": [],
+    "options": [
+      { "id": 1, "text": "William Shakespeare", "mediaFile": "" },
+      { "id": 2, "text": "Charles Dickens", "mediaFile": "" },
+      { "id": 3, "text": "Jane Austen", "mediaFile": "" },
+      { "id": 4, "text": "Mark Twain", "mediaFile": "" }
+    ],
+    "answer": 1,
+    "solution": {
+      "text": "'Romeo and Juliet' was written by William Shakespeare."
+    }
+  },
+  {
+    "text": "Which planet is known as the Red Planet?",
+    "description": "",
+    "topics": [],
+    "mediaFiles": [],
+    "options": [
+      { "id": 1, "text": "Venus", "mediaFile": "" },
+      { "id": 2, "text": "Mars", "mediaFile": "" },
+      { "id": 3, "text": "Jupiter", "mediaFile": "" },
+      { "id": 4, "text": "Saturn", "mediaFile": "" }
+    ],
+    "answer": 2,
+    "solution": { "text": "Mars is known as the Red Planet." }
+  },
+  {
+    "text": "What is the capital of Italy?",
+    "description": "",
+    "topics": [],
+    "mediaFiles": [],
+    "options": [
+      { "id": 1, "text": "Rome", "mediaFile": "" },
+      { "id": 2, "text": "Milan", "mediaFile": "" },
+      { "id": 3, "text": "Venice", "mediaFile": "" },
+      { "id": 4, "text": "Florence", "mediaFile": "" }
+    ],
+    "answer": 1,
+    "solution": { "text": "The capital of Italy is Rome." }
+  },
+  {
+    "text": "Who is the author of 'The Great Gatsby'?",
+    "description": "",
+    "topics": [],
+    "mediaFiles": [],
+    "options": [
+      { "id": 1, "text": "F. Scott Fitzgerald", "mediaFile": "" },
+      { "id": 2, "text": "Ernest Hemingway", "mediaFile": "" },
+      { "id": 3, "text": "John Steinbeck", "mediaFile": "" },
+      { "id": 4, "text": "Virginia Woolf", "mediaFile": "" }
+    ],
+    "answer": 1,
+    "solution": {
+      "text": "'The Great Gatsby' was written by F. Scott Fitzgerald."
+    }
+  },
+  {
+    "text": "What is the smallest country in the world?",
+    "description": "",
+    "topics": [],
+    "mediaFiles": [],
+    "options": [
+      { "id": 1, "text": "Monaco", "mediaFile": "" },
+      { "id": 2, "text": "Vatican City", "mediaFile": "" },
+      { "id": 3, "text": "Nauru", "mediaFile": "" },
+      { "id": 4, "text": "Maldives", "mediaFile": "" }
+    ],
+    "answer": 2,
+    "solution": { "text": "The smallest country in the world is Vatican City." }
+  },
+  {
+    "text": "What is the largest continent?",
+    "description": "",
+    "topics": [],
+    "mediaFiles": [],
+    "options": [
+      { "id": 1, "text": "Asia", "mediaFile": "" },
+      { "id": 2, "text": "Africa", "mediaFile": "" },
+      { "id": 3, "text": "North America", "mediaFile": "" },
+      { "id": 4, "text": "Europe", "mediaFile": "" }
+    ],
+    "answer": 1,
+    "solution": { "text": "The largest continent is Asia." }
+  },
+  {
+    "text": "Which planet is known as the 'Morning Star' or 'Evening Star'?",
+    "description": "",
+    "topics": [],
+    "mediaFiles": [],
+    "options": [
+      { "id": 1, "text": "Venus", "mediaFile": "" },
+      { "id": 2, "text": "Mars", "mediaFile": "" },
+      { "id": 3, "text": "Mercury", "mediaFile": "" },
+      { "id": 4, "text": "Jupiter", "mediaFile": "" }
+    ],
+    "answer": 1,
+    "solution": {
+      "text": "Venus is known as the 'Morning Star' or 'Evening Star'."
+    }
+  },
+  {
+    "text": "Who is often called the 'father of modern computing'?",
+    "description": "",
+    "topics": [],
+    "mediaFiles": [],
+    "options": [
+      { "id": 1, "text": "Alan Turing", "mediaFile": "" },
+      { "id": 2, "text": "Charles Babbage", "mediaFile": "" },
+      { "id": 3, "text": "Ada Lovelace", "mediaFile": "" },
+      { "id": 4, "text": "Steve Jobs", "mediaFile": "" }
+    ],
+    "answer": 2,
+    "solution": {
+      "text": "Charles Babbage is often called the 'father of modern computing'."
+    }
+  },
+  {
+    "text": "What is the largest species of shark?",
+    "description": "",
+    "topics": [],
+    "mediaFiles": [],
+    "options": [
+      { "id": 1, "text": "Great white shark", "mediaFile": "" },
+      { "id": 2, "text": "Whale shark", "mediaFile": "" },
+      { "id": 3, "text": "Hammerhead shark", "mediaFile": "" },
+      { "id": 4, "text": "Tiger shark", "mediaFile": "" }
+    ],
+    "answer": 2,
+    "solution": { "text": "The largest species of shark is the whale shark." }
+  }
+]

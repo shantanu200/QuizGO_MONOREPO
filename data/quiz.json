@@ -1,0 +1,122 @@
+[
+  {
+    "id": "quiz3",
+    "title": "History Quiz",
+    "description": "Test your knowledge of historical events!",
+    "initDate": "2024-05-02",
+    "dueDate": "2024-05-06",
+    "duration": 30,
+    "maxScore": 80,
+    "totalQuestion": 4,
+    "questions": [],
+    "questionModels": []
+  },
+  {
+    "id": "quiz4",
+    "title": "English Grammar Quiz",
+    "description": "Test your understanding of English grammar!",
+    "initDate": "2024-05-05",
+    "dueDate": "2024-05-09",
+    "duration": 45,
+    "maxScore": 95,
+    "totalQuestion": 6,
+    "questions": [],
+    "questionModels": []
+  },
+  {
+    "id": "quiz5",
+    "title": "Geography Quiz",
+    "description": "Test your knowledge of world geography!",
+    "initDate": "2024-05-08",
+    "dueDate": "2024-05-12",
+    "duration": 40,
+    "maxScore": 85,
+    "totalQuestion": 5,
+    "questions": [],
+    "questionModels": []
+  },
+  {
+    "id": "quiz6",
+    "title": "Computer Science Quiz",
+    "description": "Test your knowledge of computer science concepts!",
+    "initDate": "2024-05-10",
+    "dueDate": "2024-05-14",
+    "duration": 50,
+    "maxScore": 90,
+    "totalQuestion": 7,
+    "questions": [],
+    "questionModels": []
+  },
+  {
+    "id": "quiz7",
+    "title": "Physics Quiz",
+    "description": "Test your understanding of physics principles!",
+    "initDate": "2024-05-13",
+    "dueDate": "2024-05-17",
+    "duration": 35,
+    "maxScore": 75,
+    "totalQuestion": 4,
+    "questions": [],
+    "questionModels": []
+  },
+  {
+    "id": "quiz8",
+    "title": "Chemistry Quiz",
+    "description": "Test your knowledge of chemical elements and reactions!",
+    "initDate": "2024-05-16",
+    "dueDate": "2024-05-20",
+    "duration": 40,
+    "maxScore": 85,
+    "totalQuestion": 5,
+    "questions": [],
+    "questionModels": []
+  },
+  {
+    "id": "quiz9",
+    "title": "Biology Quiz",
+    "description": "Test your understanding of biological concepts!",
+    "initDate": "2024-05-19",
+    "dueDate": "2024-05-23",
+    "duration": 45,
+    "maxScore": 90,
+    "totalQuestion": 6,
+    "questions": [],
+    "questionModels": []
+  },
+  {
+    "id": "quiz10",
+    "title": "Literature Quiz",
+    "description": "Test your knowledge of literary works and authors!",
+    "initDate": "2024-05-22",
+    "dueDate": "2024-05-26",
+    "duration": 35,
+    "maxScore": 80,
+    "totalQuestion": 4,
+    "questions": [],
+    "questionModels": []
+  },
+  {
+    "id": "quiz11",
+    "title": "Art Quiz",
+    "description": "Test your knowledge of art history and techniques!",
+    "initDate": "2024-05-25",
+    "dueDate": "2024-05-29",
+    "duration": 40,
+    "maxScore": 85,
+    "totalQuestion": 5,
+    "questions": [],
+    "questionModels": []
+  },
+  {
+    "id": "quiz12",
+    "title": "Music Quiz",
+    "description": "Test your understanding of music theory and composers!",
+    "initDate": "2024-05-28",
+    "dueDate": "2024-06-01",
+    "duration": 45,
+    "maxScore": 90,
+    "totalQuestion": 6,
+    "questions": [],
+    "questionModels": []
+  }
+]
